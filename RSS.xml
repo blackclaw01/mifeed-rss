@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">       <!-- Raíz principal -->
+  <channel>              <!-- Contenedor del canal RSS -->
+
+    <!-- Información general del canal -->
+    <title>SOLUCIONES PARA CREAR MÁS PUESTOS DE TRABAJO PARA ANIMADORES DE TIEMPO LIBRE,¡ESTE ES UN PROBLEMA GRAVE!</title>       <!-- Nombre de tu blog o web -->
+    <link>..https://forocoches.com/foro/showthread.php?t=3630143.</link>         <!-- Enlace a tu sitio -->
+    <description>...</description> <!-- Descripción del sitio -->
+    <language>Esto explica por qué es difícil encotrar trabajo como animador de tiempo libre</language> <!-- Idioma: "es", "en", etc. -->
+    <pubDate>2025/04/10 thursday..</pubDate>   <!-- Fecha de la última actualización -->
+
+    <!-- Uno o más artículos (items) -->
+    <item>
+      <title>LA RAZÓN DE LA CRITICA</title>         <!-- Título del post -->
+      <link>https://www.reddit.com/r/animationcareer/comments/176b912/what_are_the_downsides_of_working_in_animation/?tl=es-es</link>           <!-- URL del post -->
+      <description>LAS DESVENTAJAS SON MAYORES QUE LAS VENTAJAS</description> <!-- Resumen -->
+      <pubDate>.2025/04/10 thursday..</pubDate>     <!-- Fecha del post -->
+    </item>
+
+    <!-- Puedes repetir más <item> -->
+
+  </channel>
+</rss>
